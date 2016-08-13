@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
+
 /*Author: Hassan Kobeissi
 Date Created: 2016-08-09
 Date Modified: 2016-08-09
@@ -43,9 +45,9 @@ div {
 
 .container {
 
-    width: 250px;
+    width: 320px;
 
-    height: 250px;
+    height: 100px;
 
     margin: 1em auto;
 
@@ -191,4 +193,35 @@ div {
 
     color: #F65314;
 
+}
+
+.text-center{
+
+    text-align: center;
+
+    display: block;
+
+    margin: 0 auto;
+
+}
+
+
+.title{
+    
+    font-family: 'Montserrat', sans-serif;
+    
+    text-align:center;
+}
+
+
+.inside-title{
+
+     font-family: 'Montserrat', sans-serif;
+    
+     font-size: 15px;
+
+     text-align: center;
+
+     display: block;
+     
 }
